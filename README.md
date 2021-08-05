@@ -11,7 +11,10 @@ Considered parameters are as follows:
 
 RESEARCH OBJECTIVES:
 • What are the most and least energy efficient buildings?
+
 • What are the factors that most effect energy efficiency for a building?
+
 • How can the City of Chicago use this data to reduce it’s current total energy
 load?
+
 • What future norms should they adopt for new buildings?
